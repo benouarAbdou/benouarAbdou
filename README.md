@@ -42,27 +42,27 @@ Hello! I'm a passionate Flutter developer with 4+ years of experience crafting b
 ## 📈 GitHub Stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=benouarAbdou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdou's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=benouarAbdou&show_icons=true&theme=graywhite&hide_border=true&count_private=true" alt="Abdou's GitHub Stats" />
 </div>
 
 
 ## 📊 Contribution Graph
 
 <div align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benouarAbdou&theme=tokyonight" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benouarAbdou&theme=graywhite" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=benouarAbdou&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=benouarAbdou&theme=graywhite&no-frame=true&row=1" alt="GitHub Trophies" />
 </div>
 
 
-## 👤 Profile stats
+## 👨🏻‍💻 Profile stats
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=benouarAbdou&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/benouarAbdou?style=for-the-badge&color=blueviolet" alt="Followers" />
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=benouarAbdou&color=orange&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/benouarAbdou?style=for-the-badge&color=black" alt="Followers" />
 </div>
 
