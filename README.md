@@ -41,26 +41,25 @@ Hello! I'm a passionate Flutter developer with 4+ years of experience crafting b
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=benouarAbdou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdou's GitHub Stats" />
 </div>
 
 
 ## 📊 Contribution Graph
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=benouarAbdou&theme=tokyonight" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=benouarAbdou&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies" />
 </div>
 
 
 ## 👤 Profile stats
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=benouarAbdou&color=blueviolet&style=for-the-badge" alt="Profile Views" />
